@@ -167,6 +167,16 @@ footer {
   font-size: 14px;
 }
 
+#social-links1 a {
+display: flex;
+  align-items: left;
+  justify-content: left;
+  padding: 16px;
+
+  transition: background 0.2s;
+  border-radius: 50%;
+  }
+  
 /*media queries */
 @media (min-width: 700px) {
   :root {
