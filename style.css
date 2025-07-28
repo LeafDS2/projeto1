@@ -170,7 +170,7 @@ footer {
 #social-links1 a {
 display: flex-end;
   align-items: right 0 ;
-  justify-content: right 100;
+  justify-content: right 0;
   padding: 10px;
 
   transition: background 0.2s;
