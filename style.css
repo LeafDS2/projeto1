@@ -170,11 +170,11 @@ footer {
 #social-links1 a {
 display: flex-end;
   align-items: right 0 ;
-  justify-content: right 0;
+  justify-content: right 100;
   padding: 10px;
 
   transition: background 0.2s;
-  border-radius: 10%;
+  border-radius: 50%;
   }
   
 /*media queries */
